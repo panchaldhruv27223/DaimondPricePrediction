@@ -1,1 +1,1 @@
-## Dimond Price Predictio
+## Dimond Price Prediction
